@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
 import { BsCurrencyDollar } from 'react-icons/bs'
-import {GoDotFill } from 'react-icons/go'
+import { GoDotFill } from "react-icons/go";
 import { Stacked,Pie,Button,SparkLine } from '../Components'
 import { earningData,SparklineAreaData,ecomPieChartData } from '../Data/dummy'
 import { useStateContext } from '../Contexts/ContextProvider'
